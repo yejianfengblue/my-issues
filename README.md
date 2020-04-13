@@ -1,0 +1,3 @@
+- 2020-01-26 https://github.com/spring-projects/spring-amqp-samples/issues/59
+- 2020-02-17 https://github.com/spring-io/dataflow.spring.io/pull/195#issuecomment-586878874
+- 2020-04-13 https://jira.spring.io/browse/DATAREST-1508

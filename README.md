@@ -6,5 +6,5 @@
 - 2020-09-01 https://github.com/appium/appium/issues/14693
 - 2021-03-22 https://github.com/appium/appium/issues/15209
 
-# Fixed Issues
-https://github.com/spring-projects/spring-data-rest/issues/1210
+# Propose Solution
+- https://github.com/spring-projects/spring-data-rest/issues/1210

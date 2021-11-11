@@ -6,5 +6,10 @@
 - 2020-09-01 https://github.com/appium/appium/issues/14693
 - 2021-03-22 https://github.com/appium/appium/issues/15209
 
+https://github.com/search?q=author%3Ayejianfengblue+is%3Aissue&type=issues
+
+# Pull Request
+https://github.com/search?q=author%3Ayejianfengblue+is%3Apr&type=issues
+
 # Propose Solution
 - https://github.com/spring-projects/spring-data-rest/issues/1210
